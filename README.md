@@ -1,2 +1,2 @@
-# str-nka-s-responzivn-m-menu
-3 úkol
+# stranka-s-responzivnim-menu
+Minimalistické pojetí. Doufám že alespoň v minimální míře OK.
